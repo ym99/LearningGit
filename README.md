@@ -1,1 +1,3 @@
 # LearningGit
+
+Important info!
